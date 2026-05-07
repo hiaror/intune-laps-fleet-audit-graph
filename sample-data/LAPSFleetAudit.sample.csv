@@ -1,0 +1,6 @@
+DeviceName,OsVersion,IsEligible,InIntune,IsEscrowing,AccountName,LastBackup,Notes
+CORP-PC-001,10.0.26100.4946,True,True,True,WLapsAdmin,2026-05-05T01:20:13Z,
+CORP-PC-002,10.0.22631.6936,False,True,True,Administrator,2026-05-04T23:15:02Z,
+CORP-PC-003,10.0.26100.5023,True,True,False,,,Not escrowing - investigate registration
+CORP-PC-004,10.0.21996.1,False,True,False,,,Unsupported OS build for LAPS
+CORP-PC-005,10.0.26100.4946,True,False,True,WLapsAdmin,2026-04-22T09:11:55Z,Stale escrow record - no matching Intune device

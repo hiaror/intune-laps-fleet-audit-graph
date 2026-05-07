@@ -1,0 +1,24 @@
+# PowerShell / VS Code
+.vscode/
+*.code-workspace
+
+# Logs / reports / exports
+*.log
+*.txt
+*.json
+*.xml
+*.zip
+*.7z
+*.bak
+
+# CSV outputs (keep only sanitized samples)
+LAPSFleetAudit_*.csv
+DuplicateEntraDevices_*.csv
+*_report*.csv
+*_output*.csv
+
+# Secrets (never commit)
+*secret*
+*token*
+*.pfx
+*.pem
