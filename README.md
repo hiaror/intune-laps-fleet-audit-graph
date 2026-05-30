@@ -122,3 +122,7 @@ This is a read-only audit toolset against Intune and Entra ID. No modification i
 
 ## Disclaimer
 Provided as-is for reference and learning purposes. Sample data and identifiers are sanitized.
+
+## Blog Post
+
+A full write-up of the findings, the Graph queries, and the gotchas is at [AroraMSP: WLapsAdmin or Administrator? Auditing Windows LAPS at fleet scale](https://aroramsp.com/blog/laps-fleet-audit-graph).
